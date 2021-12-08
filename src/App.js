@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Staging.(merge from feature/dev1)
+          Staging.(merge from feature/dev2)
         </p>
         <a
           className="App-link"
